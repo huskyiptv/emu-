@@ -25,5 +25,28 @@ https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8
 http://103.81.104.118/hls/stream5.m3u8
 #EXTINF:-1 tvg-id="StarMoviesIndia.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/512px-STAR_Movies_logo.svg.png" group-title="Movies",Star Movies India
 http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",UK - Sky Sports Cricket UHD
+#EXTINF:-1 tvg-country="GB" tvg-logo="" group-title="Sport",UK - Sky Sports Cricket UHD
 http://2hubs.ddns.net:25461/BabNour/telegrramm/62560?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sports",Sky Sports Cricket
+https://list.iptvcat.com/my_list/s/bc8087d1a4e4c6431400225e753444c5.m3u8
+#EXTINF:-1 group-title="Sports",Astro Cricket
+https://list.iptvcat.com/my_list/s/bd256486c02d7762ff50d5cabb46183b.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports 1 
+https://list.iptvcat.com/my_list/s/3aefeffac956071b0f09c82bec8c70e1.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports 2
+https://list.iptvcat.com/my_list/s/ab05dfe4b4ab96c3787cd40089186632.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
